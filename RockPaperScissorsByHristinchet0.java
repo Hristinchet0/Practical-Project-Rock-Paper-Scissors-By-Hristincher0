@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 
-public class RockPaperScissors {
+public class RockPaperScissorsByHristinchet0 {
     private static final String ROCK = "Rock";
     private static final String PAPER = "Paper";
     private static final String SCISSORS = "Scissors";
