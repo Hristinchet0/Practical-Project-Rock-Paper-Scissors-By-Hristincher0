@@ -1,3 +1,6 @@
+![Image](https://cdn.mos.cms.futurecdn.net/sy6ZaZCSZSC8Kf6xC9npyM-320-80.jpg)
+
+
 # Practical-Project-Rock-Paper-Scissors-By-Hristincher0
 
 Rock - Paper - Scissors is a simple two player game where you and your opponent (the computer) 
